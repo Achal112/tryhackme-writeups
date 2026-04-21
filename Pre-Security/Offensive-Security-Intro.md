@@ -31,7 +31,7 @@ The approach followed in this lab:
 ## Task 1: Think Like a Hacker
 
 ### Screenshots:
-
+![image](../images/ans1.png)
 
 **Question:**  
 Which term describes simulating a hacker's actions?
@@ -43,6 +43,9 @@ Which term describes simulating a hacker's actions?
 
 ## Task 2: Starting the Lab
 
+### Screenshots:
+![image](../images/ans2.png)
+
 - Launched FakeBank application
 - Observed account details
 
@@ -52,6 +55,9 @@ Which term describes simulating a hacker's actions?
 ---
 
 ## Task 3: Find Hidden Pages
+
+### Screenshots:
+![image](../images/ans3.png)
 
 ### Command Used:
 ```bash
@@ -71,6 +77,10 @@ http://fakebank.thm/bank-transfer
 ---
 
 ## Task 4: Attack the Admin Page
+
+### Screenshots:
+![image](../images/ans4-1.png)
+
 ### Steps:
 
 -Navigate to:
@@ -78,6 +88,10 @@ http://fakebank.thm/bank-transfer
 -Select account: 8881
 -Enter amount: 2000
 -Click Deposit Money
+
+### Screenshots:
+![image](../images/ans4-2.png)
+
 ### 🎉 Result:
 
 Popup appeared with flag.
