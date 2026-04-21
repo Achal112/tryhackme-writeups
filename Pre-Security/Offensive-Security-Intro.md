@@ -72,7 +72,9 @@ dirb http://fakebank.thm
 The ```dirb``` tool performs directory brute-forcing to discover hidden endpoints that are not directly visible on the website.
 
 ### Answer:
+```bash
 http://fakebank.thm/bank-transfer
+```
 
 ---
 
@@ -84,7 +86,9 @@ http://fakebank.thm/bank-transfer
 ### Steps:
 
 -Navigate to:
+```bash
   http://fakebank.thm/bank-transfer
+```
 -Select account: 8881
 -Enter amount: 2000
 -Click Deposit Money
@@ -93,19 +97,20 @@ http://fakebank.thm/bank-transfer
 ![image](../images/ans4-2.png)
 
 ### 🎉 Result:
-
 Popup appeared with flag.
 
 ### Flag:
+```bash
 BANK-HACKED
+```
 
 ---
 
 ## Key Learnings
-Offensive security focuses on finding system weaknesses
-Hidden directories can expose sensitive functionality
-Tools like dirb help discover hidden endpoints
-Poor access control can lead to serious vulnerabilities
+- Offensive security focuses on finding system weaknesses
+- Hidden directories can expose sensitive functionality
+- Tools like dirb help discover hidden endpoints
+- Poor access control can lead to serious vulnerabilities
 
 ---
 
@@ -114,8 +119,8 @@ Poor access control can lead to serious vulnerabilities
 - Lack of authentication and authorization controls
 
 ## Tools Used
-dirb
-Linux Terminal
+- dirb
+- Linux Terminal
 
 ---
 
