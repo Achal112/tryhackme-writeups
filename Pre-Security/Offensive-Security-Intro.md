@@ -31,7 +31,7 @@ The approach followed in this lab:
 ## Task 1: Think Like a Hacker
 
 ### Screenshots:
-![task1](../images/ans1.png)
+![task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans1.png)
 
 **Question:**  
 Which term describes simulating a hacker's actions?
