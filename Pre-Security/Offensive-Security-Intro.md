@@ -85,13 +85,13 @@ http://fakebank.thm/bank-transfer
 
 ### Steps:
 
--Navigate to:
+1. Navigate to:
 ```bash
   http://fakebank.thm/bank-transfer
 ```
--Select account: 8881
--Enter amount: 2000
--Click Deposit Money
+2. Select account: 8881
+3. Enter amount: 2000
+4. Click Deposit Money
 
 ### Screenshots:
 ![image](../images/ans4-2.png)
