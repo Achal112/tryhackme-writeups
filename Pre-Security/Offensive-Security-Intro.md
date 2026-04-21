@@ -94,7 +94,7 @@ http://fakebank.thm/bank-transfer
 4. Click Deposit Money
 
 ### Screenshots:
-![image](../images/ans4-2.png)
+![image](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans4-2.png)
 
 ### 🎉 Result:
 Popup appeared with flag.
