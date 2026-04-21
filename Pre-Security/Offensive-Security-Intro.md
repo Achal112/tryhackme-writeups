@@ -44,7 +44,7 @@ Which term describes simulating a hacker's actions?
 ## Task 2: Starting the Lab
 
 ### Screenshots:
-![task2](../images/ans2.png)
+![task2](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans2.png)
 
 - Launched FakeBank application
 - Observed account details
