@@ -31,6 +31,9 @@ The approach followed in this lab:
 
 ## Task 1: Think Like a Defender
 
+### Screenshot:
+[!task1](../images/res1.png)
+
 **Question:**  
 What is the main goal of defensive security?
 
