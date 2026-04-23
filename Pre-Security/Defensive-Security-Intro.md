@@ -32,7 +32,7 @@ The approach followed in this lab:
 ## Task 1: Think Like a Defender
 
 ### Screenshot:
-[!task1](../images/res1.png)
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res1.png)
 
 **Question:**  
 What is the main goal of defensive security?
@@ -57,7 +57,7 @@ What is the main goal of defensive security?
 ---
 
 ### Screenshot:
-
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res2.png)
 
 
 ---
@@ -95,7 +95,7 @@ Determine the type of attack by analyzing the attacker's activity in the monitor
 ---
 
 ### Screenshot:
-
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res3-1.png)
 
 
 ---
@@ -112,6 +112,7 @@ Determine the type of attack by analyzing the attacker's activity in the monitor
 https://fakebank.com/admin
 ```
 
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res3-2.png)
 
 ---
 
@@ -145,6 +146,8 @@ Stop the ongoing attack by blocking the attacker’s IP address.
 
 ---
 
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res4-1.png)
+
 ### Action Taken
 1. Reviewed security actions in the dashboard  
 2. Identified attacker’s IP address:  
@@ -154,12 +157,17 @@ Stop the ongoing attack by blocking the attacker’s IP address.
 3. Added a firewall rule to block the IP  
 4. Selected **BLOCK** and applied the rule  
 
+
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res4-2.png)
+
 ---
 
 ### Result
 The attacker’s IP was successfully blocked, preventing further malicious activity.
 
 ---
+
+[!task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/res4-3.png)
 
 ### Flag
 THM{FAKEBANK-SECURED} ```
