@@ -22,7 +22,8 @@ Understand the fundamentals of computer networking, including:
 
 ## Task 1: 
 
-[!task1](images/task1-1.png)
+![task1](images/task1-1.png)
+![task1](images/task1-2.png)
 
 ### 🔹 What is a Network?
 
@@ -34,7 +35,11 @@ A network is a collection of connected devices that can communicate with each ot
 
 ## Task 2:
 
-[!task2](images/task1-2.png)
+![task2](images/task2-1.png)
+![task2](images/task2-2.png)
+![task2](images/task2-3.png)
+![task2](images/task2-4.png)
+![task2](images/task2-5.png)
 
 ### 🔹 What is the Internet?
 
@@ -48,6 +53,12 @@ The Internet is a **global network of networks**, connecting private and public 
 
 Devices on a network are identified using:
 
+---
+
+![task3](images/task3-1.png)
+
+---
+
 ### 🔸 IP Address (Logical Identity)
 
 * Stands for: `Internet Protocol`
@@ -57,6 +68,10 @@ Devices on a network are identified using:
 **Structure:**
 
 * IPv4 has **4 sections (octets)**
+
+---
+
+![task3](images/task3-2.png)
 
 ---
 
@@ -71,6 +86,12 @@ Devices on a network are identified using:
 
 ## Practical: MAC Address Spoofing
 
+---
+
+![task3](images/task3-3.png)
+
+---
+
 ## Task 3:
 
 Bypass network restriction by spoofing MAC address
@@ -79,6 +100,12 @@ Bypass network restriction by spoofing MAC address
 
 * Network allowed only trusted MAC address
 * Spoofing allowed unauthorized access
+
+---
+
+![task3](images/task3-4.png)
+
+---
 
 ### Flag:
 
@@ -103,6 +130,12 @@ Bypass network restriction by spoofing MAC address
 
 Ping is a tool used to test connectivity between devices.
 
+---
+
+![task4](images/task4-1.png)
+
+---
+
 ### 🔹 Protocol Used:
 
 `ICMP (Internet Control Message Protocol)`
@@ -114,6 +147,10 @@ Ping is a tool used to test connectivity between devices.
 ```id="code1"
 ping 10.10.10.10
 ```
+
+---
+
+![task4](images/task4-2.png)
 
 ---
 
