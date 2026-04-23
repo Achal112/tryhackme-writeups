@@ -31,7 +31,9 @@ The approach followed in this lab:
 ## Task 1: Think Like a Hacker
 
 ### Screenshots:
-![task1](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans1.png)
+![task1](images/ans1.png)
+
+---
 
 **Question:**  
 Which term describes simulating a hacker's actions?
@@ -44,7 +46,9 @@ Which term describes simulating a hacker's actions?
 ## Task 2: Starting the Lab
 
 ### Screenshots:
-![task2](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans2.png)
+![task2](images/ans2.png)
+
+---
 
 - Launched FakeBank application
 - Observed account details
@@ -57,7 +61,9 @@ Which term describes simulating a hacker's actions?
 ## Task 3: Find Hidden Pages
 
 ### Screenshots:
-![task3](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans3.png)
+![task3](images/ans3.png)
+
+---
 
 ### Command Used:
 ```bash
@@ -81,7 +87,9 @@ http://fakebank.thm/bank-transfer
 ## Task 4: Attack the Admin Page
 
 ### Screenshots:
-![task4](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans4-1.png)
+![task4](images/ans4-1.png)
+
+---
 
 ### Steps:
 
@@ -94,7 +102,9 @@ http://fakebank.thm/bank-transfer
 4. Click Deposit Money
 
 ### Screenshots:
-![image](https://github.com/Achal112/tryhackme-writeups/blob/main/Pre-Security/images/ans4-2.png)
+![image](images/ans4-2.png)
+
+---
 
 ### 🎉 Result:
 Popup appeared with flag.
