@@ -33,6 +33,7 @@ The approach followed in this lab:
 
 ### Screenshot:
 ![task1](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res1.png)
+![task1](images/res1.png)
 
 ---
 
