@@ -22,8 +22,7 @@ Understand the fundamentals of computer networking, including:
 
 ## Task 1: 
 
-[!task1](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/task1-1.png)
-[!task1](../images/task1-1.png)
+[!task1](./images/task1-1.png)
 
 ### 🔹 What is a Network?
 
