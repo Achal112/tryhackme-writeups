@@ -22,7 +22,7 @@ Understand the fundamentals of computer networking, including:
 
 ## Task 1: 
 
-[!task1](./images/task1-1.png)
+[!task1](images/task1-1.png)
 
 ### 🔹 What is a Network?
 
@@ -34,7 +34,7 @@ A network is a collection of connected devices that can communicate with each ot
 
 ## Task 2:
 
-[!task2]()
+[!task2](images/task1-2.png)
 
 ### 🔹 What is the Internet?
 
