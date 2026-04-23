@@ -59,7 +59,7 @@ What is the main goal of defensive security?
 ---
 
 ### Screenshot:
-[!task2](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res2.png)
+![task2](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res2.png)
 
 
 ---
@@ -97,7 +97,7 @@ Determine the type of attack by analyzing the attacker's activity in the monitor
 ---
 
 ### Screenshot:
-[!task3](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res3-1.png)
+![task3](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res3-1.png)
 
 
 ---
@@ -115,7 +115,7 @@ https://fakebank.com/admin
 ```
 ---
 
-[!task3](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res3-2.png)
+![task3](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res3-2.png)
 
 ---
 
@@ -149,7 +149,7 @@ Stop the ongoing attack by blocking the attacker’s IP address.
 
 ---
 
-[!task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-1.png)
+![task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-1.png)
 
 ---
 
@@ -164,7 +164,7 @@ Stop the ongoing attack by blocking the attacker’s IP address.
 
 ---
 
-[!task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-2.png)
+![task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-2.png)
 
 ---
 
@@ -173,7 +173,7 @@ The attacker’s IP was successfully blocked, preventing further malicious activ
 
 ---
 
-[!task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-3.png)
+![task4](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res4-3.png)
 
 ---
 
