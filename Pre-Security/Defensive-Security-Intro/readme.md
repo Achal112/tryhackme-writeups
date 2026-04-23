@@ -32,7 +32,7 @@ The approach followed in this lab:
 ## Task 1: Think Like a Defender
 
 ### Screenshot:
-[!task1](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res1.png)
+![task1](https://raw.githubusercontent.com/Achal112/tryhackme-writeups/refs/heads/main/Pre-Security/images/res1.png)
 
 ---
 
