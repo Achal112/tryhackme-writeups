@@ -17,6 +17,10 @@ Learn how DNS works, including domain structure, record types, and how DNS queri
 
 # Task 1: What is DNS?
 
+![task1](images/ans1.png)
+
+---
+
 DNS provides a way to translate human-readable domain names into IP addresses.
 
 👉 Example:
@@ -31,11 +35,20 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 
 # Task 2: Domain Hierarchy
 
+![task2](images/ans2-1.png)
+![task2](images/ans2-2.png)
+
+---
+
 ### 🔹 Structure:
 
 * **TLD (Top-Level Domain):** `.com`, `.org`, `.in`
 * **Second-Level Domain:** `tryhackme`
 * **Subdomain:** `admin.tryhackme.com`
+
+---
+
+![task2](images/ans2-3.png)
 
 ---
 
@@ -50,6 +63,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 
 # Task 3: DNS Record Types
 
+![task3](images/ans3-1.png)
+
+---
+
 ### 🔹 Common Records:
 
 * **A Record:** Maps to IPv4
@@ -57,6 +74,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 * **CNAME Record:** Maps to another domain
 * **MX Record:** Mail servers
 * **TXT Record:** Text-based data
+
+---
+
+![task3](images/ans3-2.png)
 
 ---
 
@@ -69,6 +90,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 
 # Task 4: DNS Request Flow
 
+![task4](images/ans4-1.png)
+
+---
+
 ### Steps:
 
 1. Local cache check
@@ -77,6 +102,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 4. TLD server
 5. Authoritative server
 6. Response returned + cached
+
+---
+
+![task4](images/ans4-2.png)
 
 ---
 
@@ -90,6 +119,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 
 # Task 5: Practical DNS Queries
 
+![task5](images/ans5-1.png)
+
+---
+
 ### 🔹 CNAME Record:
 
 - Set the DNS query to CNAME
@@ -98,6 +131,10 @@ DNS provides a way to translate human-readable domain names into IP addresses.
 ```bash
 shops.myshopify.com
 ```
+
+---
+
+![task5](images/ans5-2.png)
 
 ---
 
@@ -112,6 +149,10 @@ THM{7012BBA60997F35A9516C2E16D2944FF}
 
 ---
 
+![task5](images/ans5-3.png)
+
+---
+
 ### 🔹 MX Priority:
 
 - Set the DNS query to MX
@@ -120,6 +161,10 @@ THM{7012BBA60997F35A9516C2E16D2944FF}
 ```bash
 30
 ```
+
+---
+
+![task5](images/ans5-4.png)
 
 ---
 
