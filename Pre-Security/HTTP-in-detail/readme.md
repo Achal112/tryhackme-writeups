@@ -23,6 +23,13 @@ Understand how HTTP/HTTPS works, including:
 
 # Task 1: What is HTTP / HTTPS?
 
+---
+
+![task1](images/res1-1.png)
+![task1](images/res1-2.png)
+
+---
+
 ### 🔹 HTTP
 
 HTTP (HyperText Transfer Protocol) is used for communication between web clients and servers.
@@ -30,6 +37,10 @@ HTTP (HyperText Transfer Protocol) is used for communication between web clients
 ### 🔹 HTTPS
 
 HTTPS is the secure version of HTTP using encryption.
+
+---
+
+![task1](images/res1-3.png)
 
 ---
 
@@ -42,6 +53,15 @@ HTTPS is the secure version of HTTP using encryption.
 ---
 
 # Task 2: URLs & Requests
+
+---
+
+![task2](images/res2-1.png)
+![task2](images/res2-2.png)
+![task2](images/res2-3.png)
+![task2](images/res2-4.png)
+
+---
 
 ### 🔹 URL Components:
 
@@ -72,6 +92,10 @@ Referer: https://tryhackme.com/
 
 ---
 
+![task2](images/res2-5.png)
+
+---
+
 ### ✅ Answers:
 
 * Protocol used → `HTTP/1.1`
@@ -81,12 +105,22 @@ Referer: https://tryhackme.com/
 
 # Task 3: HTTP Methods
 
+---
+
+![task3](images/res3-1.png)
+
+---
+
 ### 🔹 Common Methods:
 
 * **GET** → Retrieve data
 * **POST** → Create data
 * **PUT** → Update data
 * **DELETE** → Remove data
+
+---
+
+![task3](images/res3-2.png)
 
 ---
 
@@ -100,6 +134,13 @@ Referer: https://tryhackme.com/
 ---
 
 # Task 4: HTTP Status Codes
+
+---
+
+![task4](images/res4-1.png)
+![task4](images/res4-2.png)
+
+---
 
 ### 🔹 Categories:
 
@@ -121,6 +162,10 @@ Referer: https://tryhackme.com/
 
 ---
 
+![task4](images/res4-3.png)
+
+---
+
 ### ✅ Answers:
 
 * New resource → `201`
@@ -131,6 +176,12 @@ Referer: https://tryhackme.com/
 ---
 
 # Task 5: HTTP Headers
+
+---
+
+![task5](images/res5-1.png)
+
+---
 
 ### 🔹 Request Headers:
 
@@ -148,6 +199,10 @@ Referer: https://tryhackme.com/
 
 ---
 
+![task5](images/res5-2.png)
+
+---
+
 ### ✅ Answers:
 
 * Browser info → `User-Agent`
@@ -157,6 +212,12 @@ Referer: https://tryhackme.com/
 ---
 
 # Task 6: Cookies
+
+---
+
+![task6](images/res6-1.png)
+
+---
 
 ### 🔹 Concept:
 
@@ -168,6 +229,10 @@ Cookies store small data on the client to maintain session state.
 
 ---
 
+![task6](images/res6-2.png)
+
+---
+
 ### ✅ Answer:
 
 * Cookie header → `Set-Cookie`
@@ -176,11 +241,21 @@ Cookies store small data on the client to maintain session state.
 
 # Task 7: Practical HTTP Requests
 
+---
+
+![task7](images/res7-1.png)
+
+---
+
 ### 🔹 GET /room
 
 ```bash
 THM{YOU'RE_IN_THE_ROOM}
 ```
+
+---
+
+![task7](images/res7-2.png)
 
 ---
 
@@ -192,11 +267,19 @@ THM{YOU_FOUND_THE_BLOG}
 
 ---
 
+![task7](images/res7-3.png)
+
+---
+
 ### 🔹 DELETE /user/1
 
 ```bash
 THM{USER_IS_DELETED}
 ```
+
+---
+
+![task7](images/res7-4.png)
 
 ---
 
@@ -208,11 +291,19 @@ THM{USER_HAS_UPDATED}
 
 ---
 
+![task7](images/res7-5.png)
+
+---
+
 ### 🔹 POST /login (thm / letmein)
 
 ```bash
 THM{HTTP_REQUEST_MASTER}
 ```
+
+---
+
+![task7](images/res7-6.png)
 
 ---
 
