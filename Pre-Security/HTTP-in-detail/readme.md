@@ -58,8 +58,6 @@ HTTPS is the secure version of HTTP using encryption.
 
 ![task2](images/res2-1.png)
 ![task2](images/res2-2.png)
-![task2](images/res2-3.png)
-![task2](images/res2-4.png)
 
 ---
 
@@ -74,6 +72,10 @@ HTTPS is the secure version of HTTP using encryption.
 
 ---
 
+![task2](images/res2-3.png)
+
+---
+
 ### 🔹 Example Request:
 
 ```http
@@ -82,6 +84,10 @@ Host: tryhackme.com
 User-Agent: Mozilla/5.0
 Referer: https://tryhackme.com/
 ```
+
+---
+
+![task2](images/res2-4.png)
 
 ---
 
