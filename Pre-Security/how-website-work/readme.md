@@ -22,6 +22,8 @@ Understand how websites function, including:
 
 # Task 1: How Websites Work
 
+![task](images/a-1-1.png)
+
 When a user visits a website:
 
 * Browser sends a request to a web server
@@ -37,6 +39,8 @@ When a user visits a website:
 
 ---
 
+![task](images/a-1-2.png)
+
 ### ✅ Answer:
 
 * Component rendered in browser → `Front End`
@@ -44,6 +48,9 @@ When a user visits a website:
 ---
 
 # Task 2: HTML
+
+![task](images/a-2-1.png)
+![task](images/a-2-4.png)
 
 ### 🔹 What is HTML?
 
@@ -78,10 +85,14 @@ HTML (HyperText Markup Language) is used to structure web pages.
 
 ### Practical Tasks:
 
+![task](images/a-2.png)
+
 * Fixed broken image
 * Added new `<img>` tag
 
 ---
+
+![task](images/a-2-3.png)
 
 ### ✅ Answers:
 
@@ -91,6 +102,8 @@ HTML (HyperText Markup Language) is used to structure web pages.
 ---
 
 # Task 3: JavaScript
+
+![task](images/a-3-5.png)
 
 ### 🔹 What is JavaScript?
 
@@ -118,10 +131,15 @@ Click Me!
 
 ### Practical Task:
 
+![task](images/a-3-2.png)
+![task](images/a-3-3.png)
+
 * Modified content using JS
 * Added interactive button
 
 ---
+
+![task](images/a-3-4.png)
 
 ### ✅ Answer:
 
@@ -130,6 +148,8 @@ Click Me!
 ---
 
 # Task 4: Sensitive Data Exposure
+
+![task](images/a-4-1.png)
 
 ### 🔹 Concept:
 
@@ -148,6 +168,9 @@ Sensitive data exposed in:
 
 ---
 
+![task](images/a-4-2.png)
+![task](images/a-4-3.png)
+
 ### ✅ Answer:
 
 * Password found → `testpasswd`
@@ -155,6 +178,8 @@ Sensitive data exposed in:
 ---
 
 # Task 5: HTML Injection
+
+![task](images/a-5-4.png)
 
 ### 🔹 Concept:
 
@@ -177,9 +202,13 @@ Occurs when user input is not sanitized.
 
 ### Practical Task:
 
+![task](images/a-5-1.png)
+![task](images/a-5-3.png)
+
 Injected malicious link into page.
 
 ---
+![task](images/a-5-2.png)
 
 ### ✅ Answer:
 
