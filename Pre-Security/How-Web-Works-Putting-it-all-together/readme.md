@@ -71,6 +71,10 @@ Understand how all web concepts connect together:
 
 ---
 
+![task](images/res2-3.png)
+
+---
+
 ### ✅ Answers:
 
 * Static file hosting → `CDN`
@@ -118,6 +122,10 @@ Understand how all web concepts connect together:
 
 ---
 
+![task](images/res3.png)
+
+---
+
 ### ✅ Answers:
 
 * Multiple sites → `Virtual Hosts`
@@ -130,11 +138,25 @@ Understand how all web concepts connect together:
 
 ### 🔹 Concept:
 
+![task](images/res4-1.png)
+
 Arrange steps of how a web request works.
 
 ---
 
+![task](images/res4-3.png)
+![task](images/res4-3.png)
+![task](images/res4-4.png)
+
+---
+
 ### ✅ Flag:
+
+---
+
+![task](images/res4-2.png)
+
+---
 
 ```bash id="c6x7pf"
 THM{YOU_GOT_THE_ORDER}
