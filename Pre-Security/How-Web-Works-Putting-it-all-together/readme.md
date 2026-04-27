@@ -145,8 +145,8 @@ Arrange steps of how a web request works.
 ---
 
 ![task](images/res4-3.png)
-![task](images/res4-3.png)
 ![task](images/res4-4.png)
+![task](images/res4-5.png)
 
 ---
 
