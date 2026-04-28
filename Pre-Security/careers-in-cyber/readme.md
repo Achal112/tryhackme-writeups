@@ -36,6 +36,8 @@ Understand different career paths in cybersecurity and identify roles based on i
 
 ---
 
+![task](images/ans-1.png)
+
 ### ✅ Answer:
 
 `3.5 million`
@@ -73,6 +75,8 @@ Understand different career paths in cybersecurity and identify roles based on i
 
 ---
 
+![task](images/ans-2.png)
+
 ### ✅ Answer:
 
 `defence`
@@ -108,6 +112,8 @@ Understand different career paths in cybersecurity and identify roles based on i
 * Application Security
 
 ---
+
+![task](images/ans-3.png)
 
 ### ✅ Answer:
 
@@ -145,6 +151,8 @@ Understand different career paths in cybersecurity and identify roles based on i
 * Red Teaming (advanced level)
 
 ---
+
+![task](images/ans-4.png)
 
 ### ✅ Answer:
 
