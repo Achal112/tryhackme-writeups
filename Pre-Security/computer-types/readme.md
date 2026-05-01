@@ -105,6 +105,8 @@ Sophia learned about four major computer types.
 
 ---
 
+![task](images/r-2.png)
+
 ### ✅ Answers:
 
 * No screen/keyboard → `server`
@@ -174,6 +176,8 @@ Examples:
 
 ---
 
+![task](images/r-3.png)
+
 ### ✅ Answers:
 
 * Pocket computer → `smartphone`
@@ -209,6 +213,12 @@ Different computers are designed for:
 Completed interactive challenge on computer types.
 
 ---
+
+![task](images/computer-types.png)
+
+---
+
+![task](images/r-4.png)
 
 ### ✅ Flag:
 
