@@ -2,13 +2,11 @@
 
 ## Room Information
 
-| Field | Details |
-|---|---|
-| Platform | TryHackMe |
-| Module | Operating System Fundamentals |
-| Room Name | Operating Systems Introduction |
-| Difficulty | Beginner |
-| Status | ✅ Completed |
+Platform : TryHackMe 
+Module : Operating System Fundamentals 
+Room Name : Operating Systems Introduction 
+Difficulty : Beginner 
+Status : ✅ Completed 
 
 ---
 
@@ -208,6 +206,8 @@ Used the System Monitor to inspect system information.
 
 ## ✅ Answers
 
+![task](images/t-2.png)
+
 | Question | Answer |
 |---|---|
 | Ubuntu Mate version | `1.26.2` |
@@ -374,6 +374,9 @@ Explored the Linux file system and user directories.
 
 ## ✅ Answers
 
+![task](images/t-3.png)
+![task](images/t-3-2.png)
+
 | Question | Answer |
 |---|---|
 | File system type for `/dev/root` | `ext4` |
@@ -382,6 +385,8 @@ Explored the Linux file system and user directories.
 ---
 
 # Finding the Flag
+
+![task](images/t-3-3.png)
 
 Navigated to:
 
