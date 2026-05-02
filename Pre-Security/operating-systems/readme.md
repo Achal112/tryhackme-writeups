@@ -473,4 +473,4 @@ Useful for:
 
 Operating systems are the foundation of every computer system. Understanding how they manage hardware, users, files, and security is an important first step toward cybersecurity and ethical hacking.
 
-```
+---
