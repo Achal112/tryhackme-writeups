@@ -179,6 +179,9 @@ This section shows:
 
 ## ✅ Answers
 
+![task](images/result-2-first.png)
+![task](images/result-2-mid.png)
+
 | Question | Answer |
 | --- | --- |
 | Device name | `TryHatMe` |
@@ -225,6 +228,8 @@ folder located on the Desktop.
 ---
 
 ## ✅ Flag Found
+
+![task](images/result-2-end.png)
 
 Inside:
 
@@ -291,6 +296,8 @@ from the onboarding folder.
 
 ## ✅ Flag After Installation
 
+![task](images/result-3-first.png)
+
 ```bash
 THM{your_first_day!}
 ```
@@ -348,6 +355,8 @@ Opened using the Desktop shortcut.
 
 ## ✅ Answer
 
+![task](images/result-3-mid-2.png)
+
 Currently logged-in user:
 
 ```bash
@@ -389,6 +398,8 @@ Windows detected a safe test malware file.
 
 ## ✅ Answer
 
+![task](images/result-3-end.png)
+
 Affected file:
 
 ```bash
@@ -410,6 +421,8 @@ settings in Windows.
 ---
 
 ## ✅ Answer
+
+![task](images/result-3-mid.png)
 
 Current region:
 
