@@ -269,7 +269,7 @@ Solved an interactive exercise by matching security incidents with the correct C
 
 ## ✅ Flag
 
-![task](images/res-3-flag.png)
+![task](images/res-3.png)
 
 ```text
 THM{CIA_IS_ABOUT_BALANCE}
