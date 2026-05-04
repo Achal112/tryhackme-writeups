@@ -279,8 +279,10 @@ THM{CIA_IS_ABOUT_BALANCE}
 ## ✅ Answer
 
 Question: CIA Triad is what type of mindset?
-Answer:```text
+Answer:
+```bash
 Security mindset
+```
 
 ---
 
