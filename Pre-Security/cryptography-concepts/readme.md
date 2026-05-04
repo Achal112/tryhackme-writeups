@@ -295,6 +295,10 @@ FVZCYR PNRFNE PVCURE
 SIMPLE CAESAR CIPHER
 ```
 
+### Hint: 
+```text
+Shift Key is 13!
+```
 ---
 
 # Task 3: Sharing Keys Safely – Asymmetric Encryption
