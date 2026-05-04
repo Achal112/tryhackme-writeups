@@ -265,7 +265,11 @@ Solved an interactive exercise by matching security incidents with the correct C
 
 ---
 
+![task](images/res-3-1.png)
+
 ## ✅ Flag
+
+![task](images/res-3-flag.png)
 
 ```text
 THM{CIA_IS_ABOUT_BALANCE}
@@ -275,7 +279,7 @@ THM{CIA_IS_ABOUT_BALANCE}
 ## ✅ Answer
 
 Question: CIA Triad is what type of mindset?
-Answer:```bash
+Answer:```text
 Security mindset
 
 ---
