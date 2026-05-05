@@ -1,12 +1,12 @@
-# Data Representation 1 — TryHackMe Write-up
+# Data Representation — TryHackMe Write-up
 
 ## Room Overview
 This room explains how computers represent:
 - Colors using binary and hexadecimal values
-- Numbers using binary, decimal, hexadecimal, and octal systems
+- Numbers using binary, decimal, hexadecimal and octal systems
 - Data using bits and bytes
 
-It builds foundational knowledge required in cybersecurity, networking, programming, and low-level computing.
+It builds foundational knowledge required in cybersecurity, networking, programming and low-level computing.
 
 ---
 
@@ -394,7 +394,9 @@ Calculation:
 ```text
 17 million
 ```
-### Note: Type 
+### Note: 
+16,77,214 = ~ 17 Million
+ 
 ---
 
 # Task 4 — Conclusion
