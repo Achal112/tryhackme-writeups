@@ -370,11 +370,3 @@ In this room, I learned:
 - Binary & Hexadecimal Understanding
 - Cybersecurity Fundamentals
 
----
-
-# Helpful Resources
-
-- [Unicode Official Website](https://home.unicode.org/)
-- [ASCII Table Reference](https://www.asciitable.com/)
-- [UTF-8 Explained](https://www.javatpoint.com/utf-8-vs-utf-16-vs-utf-32)
-- [TryHackMe](https://tryhackme.com/)
