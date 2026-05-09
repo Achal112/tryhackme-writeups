@@ -391,6 +391,8 @@ I created a VM for the marketing team.
 | Memory | 8 GB |
 | Disk Size | 100 GB |
 
+![task](images/a-4-1.png)
+
 After creation:
 ```text
 Marketing-VM
@@ -430,7 +432,7 @@ I analyzed physical server usage.
 
 ## Q1. VM running the longest?
 
-![task](images/a-4-1.png)
+![task](images/a-4-2.png)
 
 ```text
 Monitoring-SYS
@@ -440,7 +442,7 @@ Monitoring-SYS
 
 ## Q2. VM using the most memory?
 
-![task](images/a-4-2.png)
+![task](images/a-4-3.png)
 
 ```text
 DB-Cluster-01
@@ -450,7 +452,13 @@ DB-Cluster-01
 
 ## Q3. Running VMs after fixing Mail-SERVER?
 
-![task](images/a-4-3.png)
+Need to restart the Mail-SERVER by clicking on the restart button
+
+![task](images/a-4-5.png)
+
+---
+
+![task](images/a-4-4.png)
 
 ```text
 8
@@ -460,7 +468,7 @@ DB-Cluster-01
 
 ## Q4. Physical host running most VMs?
 
-![task](images/a-4-4.png)
+![task](images/a-4-6.png)
 
 ```text
 HV-PROD-02
